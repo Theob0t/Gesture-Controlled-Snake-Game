@@ -1,3 +1,1 @@
-pygame
-random
-time
+pygame==1.9.6
