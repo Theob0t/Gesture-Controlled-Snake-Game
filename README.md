@@ -37,5 +37,28 @@ The goal of the project is to create a Snake game for Windows machine and to pub
 
 ## Installation
 
-### Open CMD and Clone repository
-```git clone ```
+### Open CMD and clone repository
+```git clone https://github.com/Theob0t/Snake_Game.git```
+
+### Navigate to folder
+```cd Snake_Game```
+
+### Run setup.py
+```python setup.py build```
+
+### Copy data_files to EXE folder
+```xcopy data build\exe.win-amd64-3.8\data```
+
+### Navigate to the EXE file
+```cd build/exe.win-amd64-3.8```
+
+### Run Snake_Game
+```Snake_Game```
+
+
+## DOWNLOAD AND PLAY from itch.io
+https://theob0t.itch.io/snake-game-by-theob0t
+
+<p align="center">
+  <img src="./data/screen_menu.png" width="400" height="400">
+</p>
