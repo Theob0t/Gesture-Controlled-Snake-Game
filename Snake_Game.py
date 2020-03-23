@@ -21,30 +21,28 @@ def current_score(score):
 
 # save score in file ./data/score.txt
 def save_score(score):
-    final_score = '00' + str(score)
+    final_score = ','+str(score)
     with open('./data/score.txt', 'a', encoding = 'utf-8') as file:
         file.write(f'{final_score}')
     return final_score
 
 # read ./data/score.txt and select best score 
-scores_best_score = []
 def get_best_score(file):
     with open('./data/score.txt', 'r+', encoding = 'utf-8') as file:
         for line in file:
-            scores_best_score.append(line) 
-    if (len(scores_best_score) <=0):
-        return 0
-    else:
-        scores_best_score.sort()
-        return scores_best_score[-1]
+            scores_best_score = line.strip().split(",")
+        bs = list([int(x) for x in scores_best_score])
+    if (len(bs) <=0):
+        return '0'
+    if (len(bs) > 0):
+        bs.sort()
+        return bs[-1]
     
 # best score display on screen  
-def display_best_score(file):
+def display_best_score(file, score):
     best_score = str(get_best_score(file))
-    for l in best_score:
-        bs.append(l)
-    bs.sort()
-    best_score = bs[-1]
+    if int(best_score) < int(score):
+        best_score = int(score)
     value = score_font.render("Best Score: " + str(best_score), True, red)
     screen.blit(value, [330, 0])
     return
@@ -245,7 +243,7 @@ def game(level):
                 
 
         current_score(score)
-        display_best_score('./data/score.txt')
+        display_best_score('./data/score.txt', score)
         # update the entire screen with a timeframe of 5 frames per secondes 
         pygame.display.update()
         # increase frames per sec to increase difficulty
