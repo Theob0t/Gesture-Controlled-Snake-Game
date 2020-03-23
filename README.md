@@ -1,22 +1,21 @@
 # Snake_Game
-Snake game with Pygame
+## Snake game with Pygame
 
-PROJECT GOAL
+## PROJECT GOAL
 The goal of the project is to create a Snake game for Windows machine and to publish it online. 
 
-REQUIREMENTS
+## REQUIREMENTS
 
-Software:
+### Software:
 -	Working on Windows machine
 -	Coded in Python
 -	Welcome Menu (select difficulty)
 -	Frame size is 500*500 pixels
 -	Display current score and store best score locally
 -	User plays using arrows of the keyboard
--	Game is download-able on http://www.itch.io
-(https://theob0t.itch.io/snake-game-by-theob0t)
+-	Game is download-able on http://www.itch.io \b (https://theob0t.itch.io/snake-game-by-theob0t)
 
-Rules:
+### Rules:
 -	Snake starts in the center of the screen with size of 10x10 pixels
 -	Place food somewhere randomly in the screen
 -	Food size is 10x10 pixels
