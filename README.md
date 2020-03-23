@@ -4,7 +4,7 @@
 ## :dart: PROJECT GOAL
 The goal of the project is to create a Snake game for Windows machine and to publish it online. 
 
-<img src="./data/snake_gif.png" alt="alt text" width="250" height="250">
+<img src="./data/snake_gif.png" width="250" height="250">
 
 ## :memo: REQUIREMENTS
 
