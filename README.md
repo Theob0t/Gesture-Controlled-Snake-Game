@@ -20,7 +20,7 @@ The goal of the project is to create a Snake game for Windows machine and to pub
 -	Game is download-able on http://www.itch.io <br> (https://theob0t.itch.io/snake-game-by-theob0t)
 
 
-<img src="./data/screen_menu.png" alt="alt text" width="350" height="350" align="left"/><img src="./data/screen_wasted.png" alt="alt text" width="350" height="350" align="right"/>
+<img src="./data/screen_menu.png" alt="alt text" width="400" height="400" align="left"/><img src="./data/screen_wasted.png" alt="alt text" width="400" height="400" align="right"/>
 
 
 ### Rules:
