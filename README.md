@@ -33,3 +33,9 @@ The goal of the project is to create a Snake game for Windows machine and to pub
 -	Snake can’t reverse
 -	When Snake eat food it grows of one block (10x10 pixels)
 -	Snake dies if it hits itself or a border of the screen
+
+
+## Installation
+
+### Open CMD and Clone repository
+```git clone ```
