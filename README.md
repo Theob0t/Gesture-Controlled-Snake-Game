@@ -21,8 +21,8 @@ The goal of the project is to create a Snake game for Windows machine and to pub
 <br/><br/><br/>
 
 <img src="./data/screen_menu.png" alt="alt text" width="400" height="400" align="left"/><img src="./data/screen_wasted.png" alt="alt text" width="400" height="400" align="right"/>
-<br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 ### Rules:
