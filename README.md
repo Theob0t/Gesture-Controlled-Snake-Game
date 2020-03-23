@@ -60,5 +60,5 @@ The goal of the project is to create a Snake game for Windows machine and to pub
 https://theob0t.itch.io/snake-game-by-theob0t
 
 <p align="center">
-  <img src="./data/screen_itchio.png" width="700" height="400">
+  <img src="./data/screen_itchio.png" width="650" height="400">
 </p>
