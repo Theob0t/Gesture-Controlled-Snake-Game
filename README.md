@@ -20,9 +20,8 @@ The goal of the project is to create a Snake game for Windows machine and to pub
 -	Game is download-able on http://www.itch.io <br> (https://theob0t.itch.io/snake-game-by-theob0t)
 
 
-<img src="./data/screen_menu.png" alt="alt text" width="350" height="350" align="left">
-<img src="./data/screen_wasted.png" alt="alt text" width="350" height="350" align="right">
-![alt-text-1](./data/screen_menu.png) ![alt-text-2](./data/screen_wasted.png) 
+<img src="./data/screen_menu.png" alt="alt text" width="350" height="350" align="left"/><img src="./data/screen_wasted.png" alt="alt text" width="350" height="350" align="right"/>
+
 
 ### Rules:
 -	Snake starts in the center of the screen with size of 10x10 pixels
