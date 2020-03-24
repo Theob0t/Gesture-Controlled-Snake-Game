@@ -1,5 +1,5 @@
 <p align="center">
-# :snake: Snake_Game :snake:
+  <head><title> :snake: Snake_Game :snake: </title></head>
 ## Snake game with Pygame
 </p>
 
