@@ -1,5 +1,4 @@
 <p align="center">
-  
 ## :snake: Snake_Game :snake:
 ## Snake game with Pygame
 
