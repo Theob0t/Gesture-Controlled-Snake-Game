@@ -1,8 +1,5 @@
-<p align="center">
 ## :snake: Snake_Game :snake:
 ## Snake game with Pygame
-
-</p>
 
 ## :dart: PROJECT GOAL
 The goal of the project is to create a Snake game for Windows machine and to publish it online. 
