@@ -1,6 +1,8 @@
 <p align="center">
-  <head><title> :snake: Snake_Game :snake: </title></head>
+  
+## :snake: Snake_Game :snake:
 ## Snake game with Pygame
+
 </p>
 
 ## :dart: PROJECT GOAL
