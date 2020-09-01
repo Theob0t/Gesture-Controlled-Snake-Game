@@ -15,7 +15,7 @@ The goal of the project is to create a Gesture Conrtolled Snake game for Windows
 -	Display current score and store best score locally
 -	User plays using gesture (on camera/webcam)
 
-<img src="./data/screen_menu.png" alt="alt text" width="400" height="400" align="left"/>  <img src="./data/screen_wasted.png" alt="alt text" width="400" height="400" align="right"/>
+<img src="./data/screen_menu.png" alt="alt text" width="400" height="400" align="left"/> <img src="./data/screen_wasted.png" alt="alt text" width="400" height="400" align="right"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
