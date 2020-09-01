@@ -1,5 +1,5 @@
-## :snake: Snake_Game :snake:
-## Snake game with Pygame
+## :snake: Snake_Game_CV :snake:
+## Snake game with Pygame controlled by gesture
 
 ## :dart: PROJECT GOAL
 The goal of the project is to create a Snake game for Windows machine and to publish it online. 
@@ -7,6 +7,16 @@ The goal of the project is to create a Snake game for Windows machine and to pub
 <p align="center">
   <img src="./data/snake_gif.gif" width="400" height="400">
 
+## UPDATE: ONCE THE GAME CODED, I DECIDED TO INTEGRATE COMPUTER VISION AND A NEURAL NETWORKS MODEL TO CONTROL THE SNAKE USING THE WEBCAM
+
+<p align="center">
+  <img src="./data/snakeCV_capture.mp4" width="800" height="400">
+  
+### Capture gesture and predict the move:
+- Using OpenCV library you can open your webcam and save each new frame into a jpeg
+(image)
+- Use this jpeg as an input for the neural network model
+- Neural Network built using Teachable Machine by Google https://teachablemachine.withgoogle.com/train
 
 ## :memo: REQUIREMENTS
 
