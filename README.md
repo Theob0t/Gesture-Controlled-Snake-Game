@@ -19,7 +19,7 @@ The goal of the project is to create a Gesture Conrtolled Snake game for Windows
 <img src="./data/screen_wasted.png" alt="alt text" width="400" height="400" align="right"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 
 ### Rules:
