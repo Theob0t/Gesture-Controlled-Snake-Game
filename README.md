@@ -30,7 +30,7 @@ The goal of the project is to create a Gesture Conrtolled Snake game for Windows
 -	Snake dies if it hits itself or a border of the screen
 
   
-### Capture gesture and predict the move:
+### Capture gestures and predict the move:
 - Using OpenCV library you can open your webcam and save each new frame into a jpeg
 <img src="./data/opencv.jpeg" alt="alt text" width="800" height="400" align="center"/>
 </br>
