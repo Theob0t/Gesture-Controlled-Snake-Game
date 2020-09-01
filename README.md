@@ -25,7 +25,6 @@ The goal of the project is to create a Gesture Conrtolled Snake game for Windows
 -	Place food somewhere randomly in the screen
 -	Food size is 10x10 pixels
 -	Snake can move up, down, right and left
--	(Snake can’t reverse)
 -	When Snake eat food it grows of one block (10x10 pixels)
 -	Snake dies if it hits itself or a border of the screen
 
