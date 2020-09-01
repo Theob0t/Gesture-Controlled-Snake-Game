@@ -3,6 +3,7 @@
 
 ## :dart: PROJECT GOAL
 The goal of the project is to create a Snake game for Windows machine and to publish it online. 
+(UPDATE: and add Control Gesture to move the Snake)
 
 <p align="center">
   <img src="./data/snake_gif.gif" width="400" height="400">
