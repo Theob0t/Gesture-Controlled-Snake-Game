@@ -11,7 +11,7 @@ The goal of the project is to create a Snake game for Windows machine and to pub
 ## UPDATE: MOTION CONTROL added using COMPUTER VISION and NEURAL NET to control the snake
 
 <p align="center">
-  <img src="./data/snake-game.gif" width="800" height="400">
+  <img src="./data/snake_game.gif" width="800" height="400">
   
 ### Capture gesture and predict the move:
 - Using OpenCV library you can open your webcam and save each new frame into a jpeg (
