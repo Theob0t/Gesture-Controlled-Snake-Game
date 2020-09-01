@@ -21,7 +21,8 @@ The goal of the project is to create a Snake game for Windows machine and to pub
 
 - Neural Network built using Teachable Machine by Google https://teachablemachine.withgoogle.com/train
 ('./model/keras_model.h5' and 'keras_model.py')
-<img src="./data/model_.jpeg" alt="alt text" width="800" height="200" align="left"/>
+<img src="./data/model_.jpeg" alt="alt text" width="800" height="200" align="center"/>
+</br>
 
 ## :memo: REQUIREMENTS
 
