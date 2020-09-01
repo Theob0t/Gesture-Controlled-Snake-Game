@@ -15,16 +15,16 @@ The goal of the project is to create a Snake game for Windows machine and to pub
   
 ### Capture gesture and predict the move:
 - Using OpenCV library you can open your webcam and save each new frame into a jpeg
-<img src="./data/opencv.jpeg" alt="alt text" width="400" height="400" align="center"/>
+<img src="./data/opencv.jpeg" alt="alt text" width="700" height="400" align="center"/>
 </br>
 
 - Use this jpeg as an input for the neural network model
-<img src="./data/move.jpeg" alt="alt text" width="400" height="400" align="center"/>
+<img src="./data/move.jpg" alt="alt text" width="200" height="400" align="center"/>
 </br>
 
 - Neural Network built using Teachable Machine by Google https://teachablemachine.withgoogle.com/train
 ('./model/keras_model.h5' and 'keras_model.py')
-<img src="./data/model.jpeg" alt="alt text" width="800" height="200" align="center"/>
+<img src="./data/model.jpeg" alt="alt text" width="200" height="400" align="center"/>
 </br>
 
 ## :memo: REQUIREMENTS
