@@ -1,5 +1,6 @@
-## :snake: Gesture Control Snake Game  :snake:
-## Gesture Gaming with Pygame, OpenCV and Keras
+## :snake: Gesture Controlled Snake Game  :snake:
+## Gesture Gaming 
+with Pygame, OpenCV and Keras
 
 ## :dart: PROJECT GOAL
 The goal of the project is to create a Gesture Conrtolled Snake game for Windows machine.
