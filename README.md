@@ -1,17 +1,33 @@
-## :snake: Snake_Game_CV :snake:
-## Snake game with Pygame controlled by gesture
+## :snake: Gesture Control Snake Game  :snake:
+## Gesture Gaming with Pygame, OpenCV and Keras
 
 ## :dart: PROJECT GOAL
-The goal of the project is to create a Snake game for Windows machine and to publish it online. </br>
-(UPDATE: and add Control Gesture to move the Snake)
-
-<p align="center">
-  <img src="./data/snake_gif.gif" width="400" height="400">
-
-## UPDATE: MOTION CONTROL added using COMPUTER VISION and NEURAL NET to control the snake
+The goal of the project is to create a Gesture Conrtolled Snake game for Windows machine.
 
 <p align="center">
   <img src="./data/snake_game.gif" width="800" height="400">
+
+## :memo: REQUIREMENTS
+
+### Software:
+-	Welcome Menu (select difficulty)
+-	Display current score and store best score locally
+-	User plays using gesture (on camera/webcam)
+
+<img src="./data/screen_menu.png" alt="alt text" width="400" height="400" align="left"/><img src="./data/screen_wasted.png" alt="alt text" width="400" height="400" align="right"/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+### Rules:
+-	Snake starts in the center of the screen with size of 10x10 pixels
+-	Place food somewhere randomly in the screen
+-	Food size is 10x10 pixels
+-	Snake can move up, down, right and left
+-	(Snake can’t reverse)
+-	When Snake eat food it grows of one block (10x10 pixels)
+-	Snake dies if it hits itself or a border of the screen
+
   
 ### Capture gesture and predict the move:
 - Using OpenCV library you can open your webcam and save each new frame into a jpeg
@@ -27,31 +43,6 @@ The goal of the project is to create a Snake game for Windows machine and to pub
 <img src="./data/model.jpeg" alt="alt text" width="1200" height="40" align="center"/>
 </br>
 
-## :memo: REQUIREMENTS
-
-### Software:
--	Working on Windows machine
--	Coded in Python
--	Welcome Menu (select difficulty)
--	Frame size is 500*500 pixels
--	Display current score and store best score locally
--	User plays using arrows of the keyboard
--	Game is downloadable on http://www.itch.io <br> (https://theob0t.itch.io/snake-game-by-theob0t)
-<br/><br/>
-
-<img src="./data/screen_menu.png" alt="alt text" width="400" height="400" align="left"/><img src="./data/screen_wasted.png" alt="alt text" width="400" height="400" align="right"/>
-<br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-
-### Rules:
--	Snake starts in the center of the screen with size of 10x10 pixels
--	Place food somewhere randomly in the screen
--	Food size is 10x10 pixels
--	Snake can move up, down, right and left
--	Snake can’t reverse
--	When Snake eat food it grows of one block (10x10 pixels)
--	Snake dies if it hits itself or a border of the screen
 
 
 ## Installation
