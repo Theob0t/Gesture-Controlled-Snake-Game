@@ -19,12 +19,12 @@ The goal of the project is to create a Snake game for Windows machine and to pub
 </br>
 
 - Use this jpeg as an input for the neural network model
-<img src="./data/move.jpg" alt="alt text" width="1400" height="50" align="center"/>
+<img src="./data/move.jpg" alt="alt text" width="1200" height="30" align="center"/>
 </br>
 
 - Neural Network built using Teachable Machine by Google https://teachablemachine.withgoogle.com/train
 ('./model/keras_model.h5' and 'keras_model.py')
-<img src="./data/model.jpeg" alt="alt text" width="1400" height="50" align="center"/>
+<img src="./data/model.jpeg" alt="alt text" width="1200" height="30" align="center"/>
 </br>
 
 ## :memo: REQUIREMENTS
