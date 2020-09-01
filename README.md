@@ -1,5 +1,5 @@
-## :snake: Gesture Controlled Snake Game  :snake:
-## Gesture Gaming 
+## :snake: Gesture Gaming  :snake:
+## Gesture Controlled Snake Game 
 with Pygame, OpenCV and Keras
 
 ## :dart: PROJECT GOAL
